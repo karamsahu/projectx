@@ -1,0 +1,6 @@
+<article>
+                    <h1 class="page-title">Magic Dietitian</h1>
+                    <p>Magic Dietitian is a website that encourages and supports Indian community to take a step forward towards Good Health and a flourishing Life. We assist you to lead a healthy life by adapting a suitable diet plan. We provide all kinds of information related to health, fitness, diets and nutrition depending upon various body types. People can find appropriate Diet plans, Yoga, Exercises, Ayurveda, Homeopathy, Home Remedies, Diet Tips and Diet Recipes according to their needs.</p>
+                    <p>Being your online dietitian, we will LISTEN to your needs, plan or alter your meals, Modify your eating patterns, and UNDERSTAND your activities. We help and motivate you for your weight related disappointments and turn those daunting experiences into a life-changing achievements. In short, we make your life easier and allow food to be your best friend.</p>
+                </article>
+            </section>
